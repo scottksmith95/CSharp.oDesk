@@ -1,0 +1,15 @@
+CSharp.oDesk is a C# .NET wrapper for the oDesk RESTful API.
+
+It contains the following
+
+  * OAuth connection support for oDesk
+  * API access via explicit Urls and response handling for oDesk
+  * ASP.NET MVC 3 example project
+  * Console application example project
+
+The following will be added
+
+  * API binding for oDesk
+
+API documentation can be found here: http://developers.odesk.com/API-Documentation
+NuGet package can be found here: https://nuget.org/packages/CSharp.oDesk
