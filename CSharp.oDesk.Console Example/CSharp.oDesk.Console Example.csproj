@@ -8,8 +8,8 @@
     <ProjectGuid>{A59AAED3-BD15-4042-A9A4-7046C571CFE6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSharp.Bitbucket.Console_Example</RootNamespace>
-    <AssemblyName>CSharp.Bitbucket.Console Example</AssemblyName>
+    <RootNamespace>CSharp.oDesk.Console_Example</RootNamespace>
+    <AssemblyName>CSharp.oDesk.Console Example</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

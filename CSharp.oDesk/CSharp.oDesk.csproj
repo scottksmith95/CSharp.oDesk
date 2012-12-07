@@ -8,8 +8,8 @@
     <ProjectGuid>{0FF28DB6-7608-4874-9EDB-E4F32AD0C574}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSharp.Bitbucket</RootNamespace>
-    <AssemblyName>CSharp.Bitbucket</AssemblyName>
+    <RootNamespace>CSharp.oDesk</RootNamespace>
+    <AssemblyName>CSharp.oDesk</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
