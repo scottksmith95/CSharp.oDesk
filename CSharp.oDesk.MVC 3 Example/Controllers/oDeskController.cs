@@ -22,6 +22,7 @@ namespace CSharp.oDesk.MVC_3_Example.Controllers
             var token = Session["AccessToken"] as OAuthToken;
             if (token != null)
             {
+                //Example showing how to make calls to API endpoints and auto using OAuth tokens
                 var oDeskClient = _oDeskProvider.GetApi(token.Value, token.Secret);
                 var result = oDeskClient.RestOperations.GetForObjectAsync<JsonValue>("https://www.odesk.com/api/auth/v1/info.json").Result;
 
