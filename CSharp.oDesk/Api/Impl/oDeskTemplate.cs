@@ -43,7 +43,7 @@ namespace CSharp.oDesk.Api.Impl
     /// <author>Scott Smith</author>
     public sealed class oDeskTemplate : AbstractOAuth1ApiBinding, IoDesk 
     {
-        private static readonly Uri ApiUriBase = new Uri("http://www.odesk.com/api/");
+        private static readonly Uri ApiUriBase = new Uri("https://www.odesk.com/api/");
 
         /// <summary>
         /// Create a new instance of <see cref="oDeskTemplate"/>.
